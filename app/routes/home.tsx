@@ -8,7 +8,7 @@ import { useEffect } from "react";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "Resumind" },
+    { title: "Resuma" },
     { name: "description", content: "Welcome to React Router!" },
   ];
 }
